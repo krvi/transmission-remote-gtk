@@ -410,6 +410,14 @@ msgstr "_Angra"
 msgid "_Remove"
 msgstr "Strika t_orrent"
 
+#: src/trg-main-window.c:760
+msgid "Remove and delete"
+msgstr "Strika torrent og dátur"
+
+#: src/trg-main-window.c:760
+msgid "_Delete"
+msgstr "_Strika"
+
 #: ../src/trg-main-window.c:1026 ../src/trg-preferences-dialog.c:947
 #: ../src/trg-remote-prefs-dialog.c:697
 msgid "General"
