@@ -399,7 +399,7 @@ msgstr "<big><b>Ynskir tú at strika torrentið \"%s\" og dáturnar?</b></big>"
 #: src/trg-main-window.c:698
 #, c-format
 msgid "<big><b>%s %d torrents?</b></big>"
-msgstr "<big><b>%s %d torrentir og dátur teirra?</b></big>"
+msgstr "<big><b>%s %d torrentir?</b></big>"
 
 #: src/trg-main-window.c:704 src/trg-torrent-add-dialog.c:487
 #: src/trg-torrent-add-dialog.c:592
@@ -408,11 +408,11 @@ msgstr "_Angra"
 
 #: src/trg-main-window.c:740
 msgid "_Remove"
-msgstr "Strika t_orrent"
+msgstr "_Strika"
 
 #: src/trg-main-window.c:760
 msgid "Remove and delete"
-msgstr "Strika"
+msgstr "Strika dátur fyri"
 
 #: src/trg-main-window.c:760
 msgid "_Delete"
@@ -501,7 +501,7 @@ msgstr "Flyt"
 #: ../src/trg-main-window.c:2242 ../src/trg-menu-bar.c:743
 #: ../src/trg-toolbar.c:232
 msgid "Remove"
-msgstr "Strika torrent"
+msgstr "Strika"
 
 #: ../src/trg-main-window.c:2245 ../src/trg-menu-bar.c:749
 #: ../src/trg-toolbar.c:236
