@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: transmission-remote-gtk\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2016-10-03 07:31+0000\n"
-"PO-Revision-Date: 2026-06-13 18:00+0000\n"
+"PO-Revision-Date: 2026-06-15 15:00+0000\n"
 "Last-Translator: krvi <Unknown>\n"
 "Language-Team: Faroese <fo@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -834,11 +834,11 @@ msgstr "Fráboðanir"
 
 #: ../src/trg-preferences-dialog.c:788
 msgid "Torrent added notifications"
-msgstr "Fráboða um innløgd torrentir"
+msgstr "Fráboða um nýinnløgd torrentir"
 
 #: ../src/trg-preferences-dialog.c:792
 msgid "Torrent complete notifications"
-msgstr "Fráboða um liðug torrentir"
+msgstr "Fráboða um nýliga liðug torrentir"
 
 #: ../src/trg-preferences-dialog.c:819
 msgid "Profile: "
