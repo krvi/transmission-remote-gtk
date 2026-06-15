@@ -834,7 +834,7 @@ msgstr "Fráboðanir"
 
 #: ../src/trg-preferences-dialog.c:788
 msgid "Torrent added notifications"
-msgstr "Fráboða um innlagt torrent"
+msgstr "Fráboða um innløgd torrentir"
 
 #: ../src/trg-preferences-dialog.c:792
 msgid "Torrent complete notifications"
