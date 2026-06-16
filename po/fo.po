@@ -741,7 +741,7 @@ msgstr "Innles einans virkin torrentir"
 
 #: ../src/trg-preferences-dialog.c:418
 msgid "Full update every (?) updates"
-msgstr "Innles øll fyri (?). hvørja innlesing"
+msgstr "Fulla innlesing (?). hvørja innlesing"
 
 #: ../src/trg-preferences-dialog.c:432
 msgid "Update interval:"
