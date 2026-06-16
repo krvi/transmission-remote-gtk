@@ -890,7 +890,7 @@ msgstr "Vátta SSL-sertifikat"
 
 #: ../src/trg-preferences-dialog.c:885
 msgid "Timeout:"
-msgstr "Bíðitíð:"
+msgstr "Svarfreist:"
 
 #: ../src/trg-preferences-dialog.c:889
 msgid "Retries:"
@@ -1478,7 +1478,7 @@ msgstr "Nýt heiltøka stilling"
 
 #: ../src/trg-torrent-props-dialog.c:450
 msgid "Stop seeding at ratio"
-msgstr "Steðga uppsending á lutfalli"
+msgstr "Steðga deiling á lutfalli"
 
 #: ../src/trg-torrent-props-dialog.c:451
 msgid "Seed regardless of ratio"
