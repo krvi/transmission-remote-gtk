@@ -777,7 +777,7 @@ msgstr "Stýriboð"
 
 #: ../src/trg-preferences-dialog.c:617 ../src/trg-preferences-dialog.c:691
 msgid "Label"
-msgstr "Frámerki"
+msgstr "Spjaldur"
 
 #: ../src/trg-preferences-dialog.c:620
 msgid "Command"
