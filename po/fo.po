@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: transmission-remote-gtk\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2016-10-03 07:31+0000\n"
-"PO-Revision-Date: 2026-06-15 15:00+0000\n"
+"PO-Revision-Date: 2026-06-20 15:00+0000\n"
 "Last-Translator: krvi <Unknown>\n"
 "Language-Team: Faroese <fo@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1089,7 +1089,7 @@ msgstr "Skjátta til ólidnar niðurtøkur"
 
 #: ../src/trg-remote-prefs-dialog.c:623
 msgid "Torrent done script"
-msgstr "Skeljarrit at koyra tá torrentir eru liðug"
+msgstr "Koyr skeljarrit tá torrentir eru liðug"
 
 #: ../src/trg-remote-prefs-dialog.c:632
 msgid "Cache size (MiB)"
@@ -1246,8 +1246,8 @@ msgid ""
 "Unable to parse torrent file. File preferences unavailable, but you can "
 "still try uploading it."
 msgstr ""
-"Bar ikki til at greina torrent fíluna. Tú kanst tó gera eina roynd at "
-"uppsenda hana hóast fílugreiningin ikki er tøk."
+"Bar ikki til at greina torrent fíluna. Tú kanst tó royna at uppsenda hana"
+"hóast fílugreiningin ikki er tøk."
 
 #: ../src/trg-torrent-add-dialog.c:445
 #, c-format
