@@ -528,8 +528,8 @@ static GtkWidget *trg_rprefs_connPage(TrgRemotePrefsDialog *win, JsonObject *s)
 
     hig_workarea_add_section_title(t, &row, _("Blocklist"));
 
-    stringValue = g_strdup_printf(_("Blocklist (%lld entries)"),
-                                  (long long)session_get_blocklist_size(s));
+    stringValue
+        = g_strdup_printf(_("Blocklist (%lld entries)"), (long long)session_get_blocklist_size(s));
     tb = win->blocklist_check
         = trg_json_widget_check_new(&win->widgets, s, SGET_BLOCKLIST_ENABLED, stringValue, NULL);
     g_free((gchar *)stringValue);
