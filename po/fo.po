@@ -335,7 +335,7 @@ msgstr "Deililutfalsmark"
 
 #: ../src/trg-general-panel.c:344
 msgid "Corrupted"
-msgstr "Lýtt"
+msgstr "Avskeplað"
 
 #: ../src/trg-general-panel.c:347 ../src/trg-torrent-tree-view.c:67
 msgid "Status"
@@ -466,7 +466,7 @@ msgstr "Umbøn %d/%d miseydnaðist: %s"
 
 #: ../src/trg-main-window.c:2123
 msgid "No Limit"
-msgstr "Einki mark"
+msgstr "Óavmarkað"
 
 #: ../src/trg-main-window.c:2224 ../src/trg-menu-bar.c:712
 #: ../src/trg-toolbar.c:228
